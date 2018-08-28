@@ -1,0 +1,10 @@
+[package]
+name = "rust-for-raspberry-pi-3-template"
+version = "0.1.0"
+authors = ["Guoli Lyu <guoli-lv@hotmail.com>"]
+
+[dependencies]
+
+[package.metadata.cargo-xbuild]
+memcpy = true
+# sysroot_path = "target/sysroot"
