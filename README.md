@@ -4,7 +4,7 @@ In the year 2018, rust have advanced a significant step toward embedded system. 
 
 This repository contains templates for embedded rust on raspberry pi 3.
 
-It is also possible to code in rust with `std` lib, and the templates is on another branchs named `aarch64-unknown-linux-musl` and `aarch64-unknown-linux-gnu`.
+The master branch is a template for **bare metal** embedded rust on raspberry pi 3.
 
 ## Include assembly files
 
